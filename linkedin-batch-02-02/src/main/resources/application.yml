@@ -1,0 +1,9 @@
+# Config using mysql Database to save the batch's metadata
+#spring:
+#  datasource:
+#    driverClassName: com.mysql.jdbc.Driver
+#    url: jdbc:mysql://localhost:3306/batch_repo
+#    username: batch_user
+#    password: batch
+#    platform: mysql
+#    initialize-schema: always
